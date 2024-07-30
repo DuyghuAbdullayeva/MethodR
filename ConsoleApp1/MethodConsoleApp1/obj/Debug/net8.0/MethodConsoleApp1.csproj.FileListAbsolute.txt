@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\bin\Debug\net8.0\MethodConsoleApp1.exe
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\bin\Debug\net8.0\MethodConsoleApp1.deps.json
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\bin\Debug\net8.0\MethodConsoleApp1.runtimeconfig.json
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\bin\Debug\net8.0\MethodConsoleApp1.dll
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\bin\Debug\net8.0\MethodConsoleApp1.pdb
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\obj\Debug\net8.0\MethodConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\obj\Debug\net8.0\MethodConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\obj\Debug\net8.0\MethodConsoleApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\obj\Debug\net8.0\MethodConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\obj\Debug\net8.0\MethodConsoleApp1.dll
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\obj\Debug\net8.0\refint\MethodConsoleApp1.dll
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\obj\Debug\net8.0\MethodConsoleApp1.pdb
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\obj\Debug\net8.0\MethodConsoleApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\AddandSubtract\ConsoleApp1\MethodConsoleApp1\obj\Debug\net8.0\ref\MethodConsoleApp1.dll
